@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular and MongoDB!
 - 🖱⌨ My setup? Samsung Monitor (49"), Keyboard Ergo k860, Ergo Trackball, MacBook Pro 13" M1... And a gaming chair, of course!
 - 📫 How to reach me ... </br>
-          - Mail -> hablemos@franciscosierracuerva.com</br>
+          - Mail -> frasiecue@gmail.com</br>
           - LinkedIn -> franciscosierracuerva.com</br>
           - Twitter -> @FranSierra97</br>
        
