@@ -1,47 +1,74 @@
-### Hi there, I'm Sierra 👋
+# Fran Sierra
 
-<details open>
-<summary>🇬🇧 <strong>English (Click to collapse)</strong></summary>
+**I build backends for a living and Mac apps for fun.**
+Lead Software Engineer at a travel-tech company by day, indie maker by night. Writing PHP since 2019. Based near Seville, Spain.
 
-I am a **Backend Engineer** with over 6 years of experience in the PHP ecosystem. My specialty is bringing order to chaos: refactoring legacy code, orchestrating complex API integrations, and ensuring backend architectures scale cleanly and efficiently. I'm a 100% hands-on developer who thrives on solving deep architectural problems.
+[LinkedIn](https://www.linkedin.com/in/franciscosierracuerva/) · [Taller del Mac](https://tallerdelmac.com)
 
-🛠 **Stack & Technologies**
-- **Languages:** PHP (7.4, 8.x), SQL
-- **Frameworks:** Symfony, Laravel, Legacy/Custom Architectures
-- **Infrastructure:** VPS, Linux
-- **AI & Automation:** DeepSeek, Programmatic prompts, CLI tools
+---
 
-🔭 **Currently Focusing On**
-- Modernizing monolithic and procedural applications to current standards.
-- Developing real-time synchronizations and consuming third-party APIs with heavy data loads.
-- Creating internal utilities and LLM-powered assistants to optimize development workflows.
+## Things I've shipped
 
-⚡ **Development Philosophy**
-Pragmatism first. Industry knowledge, the drive to grow, and facing new challenges are the engine of my day-to-day. I seek the perfect balance between technical excellence and real business needs. I write code to solve problems, not to create them.
+| | Project | What it is |
+|---|---|---|
+| ✅ | **[SideList](https://sidelist.app)** | A to-do list that lives in your Mac menu bar and stays out of your way. Native Swift/SwiftUI, localized in 7 languages. Reached **#2 worldwide in paid Productivity** on the Mac App Store. |
+| 🍪 | **CrumbJar** | A cookie inspector for developers: analyze and edit the cookies of any website. Native Mac app, on the Mac App Store. |
+| 📄 | **PDF Pressor** | Optimize and compress PDF files locally; nothing leaves your Mac. On the Mac App Store. |
+| 🛠 | **[Taller del Mac](https://tallerdelmac.com)** | A blog about macOS, automation, Terminal and Apple hardware. 300+ articles in Spanish, also published in Catalan, Basque, Italian and French. |
 
-📫 **Connect with me:** [[LinkedIn](https://www.linkedin.com/in/franciscosierracuerva/)]
-</details>
+## What I do at work
+
+- Lead a small engineering team and still write code every day.
+- Modernize legacy PHP: procedural monoliths turned into something a team can maintain without fear.
+- Integrate third-party booking and availability APIs, keeping heavy data in sync across multilingual sites.
+- Build internal LLM tooling (custom skills, CLI assistants, audit workflows) so the team ships faster and breaks less.
+
+## Toolbox
+
+**Backend** · PHP 8.x, Symfony, Laravel, MySQL
+**Apple** · Swift, SwiftUI, App Store release pipeline
+**Infra** · Linux, NGINX, Cloudflare, Plesk, CyberPanel
+**AI** · Claude, DeepSeek, programmatic prompts, CLI tools
+
+## How I work
+
+Pragmatic first. I'd rather ship a small thing that solves a real problem than design a perfect thing nobody uses. Legacy code doesn't scare me; it usually pays the bills.
+
+---
+
+<details>
+<summary>🇪🇸 <strong>Versión en español</strong></summary>
 
 <br>
 
-<details>
-<summary>🇪🇸 <strong>Español (Haz clic para expandir)</strong></summary>
+**Hago backends para ganarme la vida y apps de Mac por gusto.**
+Lead Software Engineer en una empresa de tecnología para el sector turístico de día, indie maker de noche. Programo en PHP desde 2019. Vivo cerca de Sevilla.
 
-Soy un **Backend Engineer** con más de 6 años de experiencia en las trincheras del ecosistema PHP. Mi especialidad es llevar el caos al orden: refactorizar código legacy, orquestar integraciones complejas de APIs y asegurar que la arquitectura de backend escale de forma limpia y eficiente. Soy un perfil 100% "hands-on" que disfruta resolviendo problemas profundos de arquitectura.
+### Lo que he publicado
 
-🛠 **Stack y Tecnologías**
-- **Lenguajes:** PHP (7.4, 8.x), SQL
-- **Frameworks:** Symfony, Laravel, Arquitecturas legacy/custom
-- **Infraestructura:** VPS, Linux
-- **IA & Automatización:** DeepSeek, prompts programáticos, herramientas CLI
+| | Proyecto | Qué es |
+|---|---|---|
+| ✅ | **[SideList](https://sidelist.app)** | Una lista de tareas que vive en la barra de menús del Mac y no estorba. Nativa en Swift/SwiftUI, traducida a 7 idiomas. Llegó al **n.º 2 mundial de Productividad de pago** en la Mac App Store. |
+| 🍪 | **CrumbJar** | Un inspector de cookies para desarrolladores: analiza y modifica las cookies de cualquier sitio web. App nativa de Mac, en la Mac App Store. |
+| 📄 | **PDF Pressor** | Optimiza y comprime archivos PDF en local; nada sale de tu Mac. En la Mac App Store. |
+| 🛠 | **[Taller del Mac](https://tallerdelmac.com)** | Blog sobre macOS, automatización, Terminal y hardware de Apple. Más de 300 artículos en español, publicados también en catalán, euskera, italiano y francés. |
 
-🔭 **En qué me enfoco actualmente**
-- Modernizando aplicaciones monolíticas y procedurales hacia estándares actuales.
-- Desarrollando sincronizaciones en tiempo real y consumo de APIs de terceros con alta carga de datos.
-- Creando utilidades internas y asistentes con LLMs para optimizar los tiempos de desarrollo.
+### Lo que hago en el trabajo
 
-⚡ **Filosofía de desarrollo**
-Pragmatismo ante todo. El conocimiento del sector, las ganas de crecer y afrontar nuevos retos son el motor de mi día a día. Busco el equilibrio perfecto entre la excelencia técnica y las necesidades reales del negocio. Escribo código para resolver problemas, no para crearlos.
+- Lidero un equipo pequeño de desarrollo y sigo escribiendo código a diario.
+- Modernizo PHP legacy: monolitos procedurales convertidos en algo que un equipo puede mantener sin miedo.
+- Integro APIs de reservas y disponibilidad de terceros, con mucha carga de datos y sitios multilingües.
+- Construyo herramientas internas con LLMs (skills a medida, asistentes de CLI, flujos de auditoría) para que el equipo entregue más rápido y rompa menos.
 
-📫 **Conecta conmigo:** [[LinkedIn](https://www.linkedin.com/in/franciscosierracuerva/)]
+### Herramientas
+
+**Backend** · PHP 8.x, Symfony, Laravel, MySQL
+**Apple** · Swift, SwiftUI, publicación en App Store
+**Infra** · Linux, NGINX, Cloudflare, Plesk, CyberPanel
+**IA** · Claude, DeepSeek, prompts programáticos, herramientas CLI
+
+### Cómo trabajo
+
+Pragmatismo primero. Prefiero publicar algo pequeño que resuelve un problema real antes que diseñar algo perfecto que nadie usa. El código legacy no me asusta; normalmente es el que paga las facturas.
+
 </details>
