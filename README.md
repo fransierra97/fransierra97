@@ -19,7 +19,7 @@ I am a **Backend Engineer** with over 6 years of experience in the PHP ecosystem
 ⚡ **Development Philosophy**
 Pragmatism first. Industry knowledge, the drive to grow, and facing new challenges are the engine of my day-to-day. I seek the perfect balance between technical excellence and real business needs. I write code to solve problems, not to create them.
 
-📫 **Connect with me:** [Link to your LinkedIn]
+📫 **Connect with me:** [[Link to your LinkedIn](https://www.linkedin.com/in/franciscosierracuerva/)]
 </details>
 
 <br>
@@ -43,5 +43,5 @@ Soy un **Backend Engineer** con más de 6 años de experiencia en las trincheras
 ⚡ **Filosofía de desarrollo**
 Pragmatismo ante todo. El conocimiento del sector, las ganas de crecer y afrontar nuevos retos son el motor de mi día a día. Busco el equilibrio perfecto entre la excelencia técnica y las necesidades reales del negocio. Escribo código para resolver problemas, no para crearlos.
 
-📫 **Conecta conmigo:** [Enlace a tu LinkedIn]
+📫 **Conecta conmigo:** [[Enlace a tu LinkedIn](https://www.linkedin.com/in/franciscosierracuerva/)]
 </details>
